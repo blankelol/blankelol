@@ -13,3 +13,4 @@ Maker of software. Founder of [**WaveServ**](https://waveserv.com).
 
 - [**waveserv**](https://github.com/waveserv-com) - Premium game server hosting made simple. Powerful performance, reliable infrastructure and hosting built for communities.
 - [**tbgmedia**](https://github.com/tbgmedia) - TBG Media is a Germany-based creative team transforming ambitious ideas into memorable digital experiences.
+<p align="center"><img src="cat.webp" alt="" width="120"</p>
